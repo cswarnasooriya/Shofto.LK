@@ -30,7 +30,7 @@ const Hero = () => {
         price: "LKR 6,000",
       },
       {
-        id:0,
+        id:2,
         img:"/banner-3.jpg",
         title:"Sale Offer",
         mainTitle:"MEN FASHION SUMMER SALE",
