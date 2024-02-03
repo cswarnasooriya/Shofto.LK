@@ -27,15 +27,15 @@ const HeaderMain = () => {
                 <CiUser className='cursor-pointer'/>
 
                 <div className="relative">
-                    <CiHeart />
+                    <CiHeart className='cursor-pointer'/>
                     <div className="bg-red-600 rounded-full absolute top-0 right-0 w-[18px] h-[18px] text-[12px] text-white grid place-items-center translate-x-1 -translate-y-1 cursor-pointer">
                         0
                     </div>
                 </div>
 
                 <div className="relative">
-                    <FiShoppingBag />
-                    <div className="bg-red-600 rounded-full absolute top-0 right-0 w-[18px] h-[18px] text-[12px] text-white grid place-items-center translate-x-1 -translate-y-1 cursor-pointer">
+                    <FiShoppingBag className='cursor-pointer'/>
+                    <div className="bg-red-600 rounded-full absolute top-0 right-0 w-[18px] h-[18px] text-[12px] text-white grid place-items-center translate-x-1 -translate-y-1  cursor-pointer">
                         0
                     </div>
                 </div>
