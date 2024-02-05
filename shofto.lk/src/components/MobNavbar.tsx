@@ -2,6 +2,9 @@ import React from 'react'
 import { IoMenuOutline } from "react-icons/io5";
 import { CiHeart } from "react-icons/ci";
 import { FiShoppingBag } from "react-icons/fi";
+import { HiOutlineHome } from "react-icons/hi2";
+import { PiSquaresFourLight } from "react-icons/pi";
+
 
 const MobNavbar = () => {
   return (
@@ -14,7 +17,7 @@ const MobNavbar = () => {
                     0
                 </div>
             </div>
-
+            <HiOutlineHome/>
             <div className="relative">
                 <CiHeart/>
 
@@ -22,6 +25,8 @@ const MobNavbar = () => {
                     0
                 </div>
             </div>
+            <PiSquaresFourLight />
+
         </div>
       
     </div>
