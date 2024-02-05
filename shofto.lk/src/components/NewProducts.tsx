@@ -13,7 +13,7 @@ const productsData =[
     {
         img:"/jacket-2.jpg",
         title:"Jacket MenQ",
-        desc:"MEN Tarn Fleece Full-Zip Jacket",
+        desc:"MEN cool and flex Jacket",
         rating:5,
         price:"LKR 5,800",
         oldPrice:"LKR 6,500",
@@ -21,7 +21,7 @@ const productsData =[
     {
         img:"/skirt-1.jpg",
         title:"Flex Skirt",
-        desc:"MEN Tarn Fleece Full-Zip Jacket",
+        desc:"WOMEN Full-Zip Jacket",
         rating:3,
         price:"LKR 4,800",
         oldPrice:"LKR 5,500",
@@ -29,7 +29,7 @@ const productsData =[
     {
         img:"/shirt.jpg",
         title:"Long H-Shirt",
-        desc:"MEN Tarn Fleece Full-Zip Jacket",
+        desc:"MEN Gapping Full-Zip Jacket",
         rating:4,
         price:"LKR 6,800",
         oldPrice:"LKR 7,300",
@@ -37,7 +37,7 @@ const productsData =[
     {
         img:"/party-wear-1.jpg",
         title:"High Heels",
-        desc:"MEN Tarn Fleece Full-Zip Jacket",
+        desc:"High heels for WOMEN as featured",
         rating:5,
         price:"LKR 5,200",
         oldPrice:"LKR 8,500",
@@ -46,7 +46,7 @@ const productsData =[
     {
         img:"/watch-1.jpg",
         title:"Touch Altra",
-        desc:"MEN Tarn Fleece Full-Zip Jacket",
+        desc:"Branded Full-Zip watch",
         rating:3,
         price:"LKR 3,600",
         oldPrice:"LKR 4,900",
@@ -54,7 +54,7 @@ const productsData =[
     {
         img:"/watch-2.jpg",
         title:"Mini-Watch",
-        desc:"MEN Tarn Fleece Full-Zip Jacket",
+        desc:"Smart displayed casual",
         rating:3,
         price:"LKR 2,800",
         oldPrice:"LKR 4,200",
